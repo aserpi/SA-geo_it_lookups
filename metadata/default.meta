@@ -1,3 +1,6 @@
 []
 access = read : [ * ], write : [ admin, sc_admin ]
 export = system
+
+[macros]
+access = read : [ * ], write : [ admin, power, sc_admin ]
