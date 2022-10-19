@@ -1,0 +1,17 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+
+### Visual studio code ###
+
+# Configuration files
+.vscode/
+*.code-workspace
+
+# Ignore all local history of files
+.history
+.ionide
+
+# Built Visual Studio Code extensions
+*.vsix
