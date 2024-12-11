@@ -1,6 +1,7 @@
 region_iplocation,region_name,provinces_in_region
 Abruzzo,Abruzzo,4
 Apulia,Puglia,6
+Aosta Valley,Valle d'Aosta,1
 Basilicate,Basilicata,2
 Calabria,Calabria,5
 Campania,Campania,5
@@ -17,5 +18,4 @@ The Marches,Marche,5
 Trentino-Alto Adige,Trentino-Alto Adige,2
 Tuscany,Toscana,10
 Umbria,Umbria,2
-Valle d'Aosta,Valle d'Aosta,1
 Veneto,Veneto,7

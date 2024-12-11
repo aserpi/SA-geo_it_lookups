@@ -1,108 +1,108 @@
 province_iplocation,province_name,region_iplocation
+Agrigento,Agrigento,Sicily
+Alessandria,Alessandria,Piedmont
+Ancona,Ancona,The Marches
+Aosta,Aosta,Aosta Valley
+Arezzo,Arezzo,Tuscany
 Ascoli Piceno,Ascoli Piceno,The Marches
+Asti,Asti,Piedmont
+Avellino,Avellino,Campania
 Bari,Bari,Apulia
+Barletta-Andria-Trani,Barletta-Andria-Trani,Apulia
+Belluno,Belluno,Veneto
+Benevento,Benevento,Campania
+Bergamo,Bergamo,Lombardy
+Biella,Biella,Piedmont
 Bologna,Bologna,Emilia-Romagna
-Catania,Catania,Sicily
-Gorizia,Gorizia,Friuli Venezia Giulia
-Milan,Milano,Lombardy
-Monza Brianza,Monza e Brianza,Lombardy
-Naples,Napoli,Campania
-Padua,Padova,Veneto
-Pesaro and Urbino,Pesaro e Urbino,The Marches
-Province of Agrigento,Agrigento,Sicily
-Province of Arezzo,Arezzo,Tuscany
-Province of Belluno,Belluno,Veneto
-Province of Brindisi,Brindisi,Apulia
-Province of Caltanissetta,Caltanissetta,Sicily
-Province of Enna,Enna,Sicily
-Province of Fermo,Fermo,The Marches
-Province of Florence,Firenze,Tuscany
-Province of Forlì-Cesena,Forlì-Cesena,Emilia-Romagna
-Province of L'Aquila,L'Aquila,Abruzzo
-Province of Mantua,Mantova,Lombardy
-Province of Massa-Carrara,Massa-Carrara,Tuscany
-Province of Messina,Messina,Sicily
-Province of Modena,Modena,Emilia-Romagna
-Province of Palermo,Palermo,Sicily
-Province of Parma,Parma,Emilia-Romagna
-Province of Pisa,Pisa,Tuscany
-Province of Pordenone,Pordenone,Friuli Venezia Giulia
-Province of Ragusa,Ragusa,Sicily
-Province of Siena,Siena,Tuscany
-Province of Sondrio,Sondrio,Lombardy
-Province of Terni,Terni,Umbria
-Province of Trapani,Trapani,Sicily
-Province of Trente,Trente,Trentino-Alto Adige
-Province of Vibo Valentia,Vibo Valentia,Calabria
-Provincia d'Aosta,Provincia d'Aosta,Valle d'Aosta
-Provincia di Alessandria,Alessandria,Piedmont
-Provincia di Ancona,Ancona,The Marches
-Provincia di Asti,Asti,Piedmont
-Provincia di Avellino,Avellino,Campania
-Provincia di Barletta - Andria - Trani,Barletta-Andria-Trani,Apulia
-Provincia di Benevento,Benevento,Campania
-Provincia di Bergamo,Bergamo,Lombardy
-Provincia di Biella,Biella,Piedmont
-Provincia di Brescia,Brescia,Lombardy
-Provincia di Cagliari,Cagliari,Sardinia
-Provincia di Campobasso,Campobasso,Molise
-Provincia di Caserta,Caserta,Campania
-Provincia di Catanzaro,Catanzaro,Calabria
-Provincia di Chieti,Chieti,Abruzzo
-Provincia di Como,Como,Lombardy
-Provincia di Cosenza,Cosenza,Calabria
-Provincia di Cremona,Cremona,Lombardy
-Provincia di Crotone,Crotone,Calabria
-Provincia di Cuneo,Cuneo,Piedmont
-Provincia di Ferrara,Ferrara,Emilia-Romagna
-Provincia di Foggia,Foggia,Apulia
-Provincia di Frosinone,Frosinone,Lazio
-Provincia di Genova,Genova,Liguria
-Provincia di Grosseto,Grosseto,Tuscany
-Provincia di Imperia,Imperia,Liguria
-Provincia di Isernia,Isernia,Molise
-Provincia di La Spezia,La Spezia,Liguria
-Provincia di Latina,Latina,Lazio
-Provincia di Lecce,Lecce,Apulia
-Provincia di Lecco,Lecco,Lombardy
-Provincia di Livorno,Livorno,Tuscany
-Provincia di Lodi,Lodi,Lombardy
-Provincia di Lucca,Lucca,Tuscany
-Provincia di Macerata,Macerata,The Marches
-Provincia di Matera,Matera,Basilicate
-Provincia di Novara,Novara,Piedmont
-Provincia di Nuoro,Nuoro,Sardinia
-Provincia di Oristano,Oristano,Sardinia
-Provincia di Pavia,Pavia,Lombardy
-Provincia di Perugia,Perugia,Umbria
-Provincia di Pescara,Pescara,Abruzzo
-Provincia di Piacenza,Piacenza,Emilia-Romagna
-Provincia di Pistoia,Pistoia,Tuscany
-Provincia di Potenza,Potenza,Basilicate
-Provincia di Prato,Prato,Tuscany
-Provincia di Ravenna,Ravenna,Emilia-Romagna
-Provincia di Reggio Calabria,Reggio Calabria,Calabria
-Provincia di Reggio Emilia,Reggio Emilia,Emilia-Romagna
-Provincia di Rieti,Rieti,Lazio
-Provincia di Rimini,Rimini,Emilia-Romagna
-Provincia di Rovigo,Rovigo,Veneto
-Provincia di Salerno,Salerno,Campania
-Provincia di Sassari,Sassari,Sardinia
-Provincia di Savona,Savona,Liguria
-Provincia di Taranto,Taranto,Apulia
-Provincia di Teramo,Teramo,Abruzzo
-Provincia di Treviso,Treviso,Veneto
-Provincia di Varese,Varese,Lombardy
-Provincia di Vercelli,Vercelli,Piedmont
-Provincia di Verona,Verona,Veneto
-Provincia di Vicenza,Vicenza,Veneto
-Provincia di Viterbo,Viterbo,Lazio
-Rome,Roma,Lazio
-South Sardinia,Sud Sardegna,Sardinia
 South Tyrol,Bolzano,Trentino-Alto Adige
+Brescia,Brescia,Lombardy
+Brindisi,Brindisi,Apulia
+Cagliari,Cagliari,Sardinia
+Caltanissetta,Caltanissetta,Sicily
+Campobasso,Campobasso,Molise
+Caserta,Caserta,Campania
+Catania,Catania,Sicily
+Catanzaro,Catanzaro,Calabria
+Chieti,Chieti,Abruzzo
+Como,Como,Lombardy
+Cosenza,Cosenza,Calabria
+Cremona,Cremona,Lombardy
+Crotone,Crotone,Calabria
+Cuneo,Cuneo,Piedmont
+Enna,Enna,Sicily
+Fermo,Fermo,The Marches
+Ferrara,Ferrara,Emilia-Romagna
+Florence,Firenze,Tuscany
+Foggia,Foggia,Apulia
+Forlì-Cesena,Forlì-Cesena,Emilia-Romagna
+Frosinone,Frosinone,Lazio
+Genoa,Genova,Liguria
+Gorizia,Gorizia,Friuli Venezia Giulia
+Grosseto,Grosseto,Tuscany
+Imperia,Imperia,Liguria
+Isernia,Isernia,Molise
+L'Aquila,L'Aquila,Abruzzo
+La Spezia,La Spezia,Liguria
+Latina,Latina,Lazio
+Lecce,Lecce,Apulia
+Lecco,Lecco,Lombardy
+Livorno,Livorno,Tuscany
+Lodi,Lodi,Lombardy
+Lucca,Lucca,Tuscany
+Macerata,Macerata,The Marches
+Mantua,Mantova,Lombardy
+Massa-Carrara,Massa-Carrara,Tuscany
+Matera,Matera,Basilicate
+Messina,Messina,Sicily
+Milan,Milano,Lombardy
+Modena,Modena,Emilia-Romagna
+Monza and Brianza,Monza e Brianza,Lombardy
+Naples,Napoli,Campania
+Novara,Novara,Piedmont
+Nuoro,Nuoro,Sardinia
+Oristano,Oristano,Sardinia
+Padua,Padova,Veneto
+Palermo,Palermo,Sicily
+Parma,Parma,Emilia-Romagna
+Pavia,Pavia,Lombardy
+Perugia,Perugia,Umbria
+Pesaro and Urbino,Pesaro e Urbino,The Marches
+Pescara,Pescara,Abruzzo
+Piacenza,Piacenza,Emilia-Romagna
+Pisa,Pisa,Tuscany
+Pistoia,Pistoia,Tuscany
+Pordenone,Pordenone,Friuli Venezia Giulia
+Potenza,Potenza,Basilicate
+Prato,Prato,Tuscany
+Ragusa,Ragusa,Sicily
+Ravenna,Ravenna,Emilia-Romagna
+Reggio Calabria,Reggio Calabria,Calabria
+Reggio Emilia,Reggio Emilia,Emilia-Romagna
+Rieti,Rieti,Lazio
+Rimini,Rimini,Emilia-Romagna
+Rome,Roma,Lazio
+Rovigo,Rovigo,Veneto
+Salerno,Salerno,Campania
+Sassari,Sassari,Sardinia
+Savona,Savona,Liguria
+Siena,Siena,Tuscany
 Syracuse,Siracusa,Sicily
-Trieste,Trieste,Friuli Venezia Giulia
+Sondrio,Sondrio,Lombardy
+South Sardinia,Sud Sardegna,Sardinia
+Taranto,Taranto,Apulia
+Teramo,Teramo,Abruzzo
+Terni,Terni,Umbria
 Turin,Torino,Piedmont
+Trapani,Trapani,Sicily
+Trentino,Trento,Trentino-Alto Adige
+Treviso,Treviso,Veneto
+Trieste,Trieste,Friuli Venezia Giulia
 Udine,Udine,Friuli Venezia Giulia
+Varese,Varese,Lombardy
 Venice,Venezia,Veneto
-Verbania,Verbano-Cusio-Ossola,Piedmont
+Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,Piedmont
+Vercelli,Vercelli,Piedmont
+Verona,Verona,Veneto
+Vibo Valentia,Vibo Valentia,Calabria
+Vicenza,Vicenza,Veneto
+Viterbo,Viterbo,Lazio
