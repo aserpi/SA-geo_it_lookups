@@ -34,15 +34,9 @@ jobs:
         with:
           regex: '^v((?:\d+)\.(?:\d+)\.(?:\d+)(-[0-9A-Za-z-]+)?)(\+[0-9A-Za-z-]+)?$'
           text: ${{ github.ref_name }}
-      - name: Build
-        run: ucc-gen --ta-version ${{ steps.get-version.outputs.group1 }}
-      - name: Fix permissions
-        run: |
-          find output/${{ env.app_id }} -type d -exec chmod 700 -- {} +
-          find output/${{ env.app_id }} -type f -exec chmod 600 -- {} +
       - name: Package
         run: |
-          slim package output/${{ env.app_id }}
+          slim package .
           chmod 400 ${{ env.app_id }}-${{ steps.get-version.outputs.group1 }}.tar.gz
       - name: Extract changelog
         id: get-changelog
