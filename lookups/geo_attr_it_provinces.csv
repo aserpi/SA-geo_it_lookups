@@ -1,108 +1,108 @@
-province_iplocation,province_name,region_iplocation
-Agrigento,Agrigento,Sicily
-Alessandria,Alessandria,Piedmont
-Ancona,Ancona,The Marches
-Aosta,Aosta,Aosta Valley
-Arezzo,Arezzo,Tuscany
-Ascoli Piceno,Ascoli Piceno,The Marches
-Asti,Asti,Piedmont
-Avellino,Avellino,Campania
-Bari,Bari,Apulia
-Barletta-Andria-Trani,Barletta-Andria-Trani,Apulia
-Belluno,Belluno,Veneto
-Benevento,Benevento,Campania
-Bergamo,Bergamo,Lombardy
-Biella,Biella,Piedmont
-Bologna,Bologna,Emilia-Romagna
-South Tyrol,Bolzano,Trentino-Alto Adige
-Brescia,Brescia,Lombardy
-Brindisi,Brindisi,Apulia
-Cagliari,Cagliari,Sardinia
-Caltanissetta,Caltanissetta,Sicily
-Campobasso,Campobasso,Molise
-Caserta,Caserta,Campania
-Catania,Catania,Sicily
-Catanzaro,Catanzaro,Calabria
-Chieti,Chieti,Abruzzo
-Como,Como,Lombardy
-Cosenza,Cosenza,Calabria
-Cremona,Cremona,Lombardy
-Crotone,Crotone,Calabria
-Cuneo,Cuneo,Piedmont
-Enna,Enna,Sicily
-Fermo,Fermo,The Marches
-Ferrara,Ferrara,Emilia-Romagna
-Florence,Firenze,Tuscany
-Foggia,Foggia,Apulia
-Forlì-Cesena,Forlì-Cesena,Emilia-Romagna
-Frosinone,Frosinone,Lazio
-Genoa,Genova,Liguria
-Gorizia,Gorizia,Friuli Venezia Giulia
-Grosseto,Grosseto,Tuscany
-Imperia,Imperia,Liguria
-Isernia,Isernia,Molise
-L'Aquila,L'Aquila,Abruzzo
-La Spezia,La Spezia,Liguria
-Latina,Latina,Lazio
-Lecce,Lecce,Apulia
-Lecco,Lecco,Lombardy
-Livorno,Livorno,Tuscany
-Lodi,Lodi,Lombardy
-Lucca,Lucca,Tuscany
-Macerata,Macerata,The Marches
-Mantua,Mantova,Lombardy
-Massa-Carrara,Massa-Carrara,Tuscany
-Matera,Matera,Basilicate
-Messina,Messina,Sicily
-Milan,Milano,Lombardy
-Modena,Modena,Emilia-Romagna
-Monza and Brianza,Monza e Brianza,Lombardy
-Naples,Napoli,Campania
-Novara,Novara,Piedmont
-Nuoro,Nuoro,Sardinia
-Oristano,Oristano,Sardinia
-Padua,Padova,Veneto
-Palermo,Palermo,Sicily
-Parma,Parma,Emilia-Romagna
-Pavia,Pavia,Lombardy
-Perugia,Perugia,Umbria
-Pesaro and Urbino,Pesaro e Urbino,The Marches
-Pescara,Pescara,Abruzzo
-Piacenza,Piacenza,Emilia-Romagna
-Pisa,Pisa,Tuscany
-Pistoia,Pistoia,Tuscany
-Pordenone,Pordenone,Friuli Venezia Giulia
-Potenza,Potenza,Basilicate
-Prato,Prato,Tuscany
-Ragusa,Ragusa,Sicily
-Ravenna,Ravenna,Emilia-Romagna
-Reggio Calabria,Reggio Calabria,Calabria
-Reggio Emilia,Reggio Emilia,Emilia-Romagna
-Rieti,Rieti,Lazio
-Rimini,Rimini,Emilia-Romagna
-Rome,Roma,Lazio
-Rovigo,Rovigo,Veneto
-Salerno,Salerno,Campania
-Sassari,Sassari,Sardinia
-Savona,Savona,Liguria
-Siena,Siena,Tuscany
-Syracuse,Siracusa,Sicily
-Sondrio,Sondrio,Lombardy
-South Sardinia,Sud Sardegna,Sardinia
-Taranto,Taranto,Apulia
-Teramo,Teramo,Abruzzo
-Terni,Terni,Umbria
-Turin,Torino,Piedmont
-Trapani,Trapani,Sicily
-Trentino,Trento,Trentino-Alto Adige
-Treviso,Treviso,Veneto
-Trieste,Trieste,Friuli Venezia Giulia
-Udine,Udine,Friuli Venezia Giulia
-Varese,Varese,Lombardy
-Venice,Venezia,Veneto
-Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,Piedmont
-Vercelli,Vercelli,Piedmont
-Verona,Verona,Veneto
-Vibo Valentia,Vibo Valentia,Calabria
-Vicenza,Vicenza,Veneto
-Viterbo,Viterbo,Lazio
+name,"name_en","iso_3166",region
+Agrigento,Agrigento,"IT-AG",Sicilia
+Alessandria,Alessandria,"IT-AL",Piemonte
+Ancona,Ancona,"IT-AN",Marche
+Aosta,Aosta,"IT-AO","Valle d'Aosta"
+Arezzo,Arezzo,"IT-AR",Toscana
+"Ascoli Piceno","Ascoli Piceno","IT-AP",Marche
+Asti,Asti,"IT-AT",Piemonte
+Avellino,Avellino,"IT-AV",Campania
+Bari,Bari,"IT-BA",Puglia
+"Barletta-Andria-Trani","Barletta-Andria-Trani","IT-BT",Puglia
+Belluno,Belluno,"IT-BL",Veneto
+Benevento,Benevento,"IT-BN",Campania
+Bergamo,Bergamo,"IT-BG",Lombardia
+Biella,Biella,"IT-BI",Piemonte
+Bologna,Bologna,"IT-BO","Emilia-Romagna"
+Bolzano,"South Tyrol","IT-BZ","Trentino-Alto Adige"
+Brescia,Brescia,"IT-BS",Lombardia
+Brindisi,Brindisi,"IT-BR",Puglia
+Cagliari,Cagliari,"IT-CA",Sardegna
+Caltanissetta,Caltanissetta,"IT-CL",Sicilia
+Campobasso,Campobasso,"IT-CB",Molise
+Caserta,Caserta,"IT-CE",Campania
+Catania,Catania,"IT-CT",Sicilia
+Catanzaro,Catanzaro,"IT-CZ",Calabria
+Chieti,Chieti,"IT-CH",Abruzzo
+Como,Como,"IT-CO",Lombardia
+Cosenza,Cosenza,"IT-CS",Calabria
+Cremona,Cremona,"IT-CR",Lombardia
+Crotone,Crotone,"IT-KR",Calabria
+Cuneo,Cuneo,"IT-CN",Piemonte
+Enna,Enna,"IT-EN",Sicilia
+Fermo,Fermo,"IT-FM",Marche
+Ferrara,Ferrara,"IT-FE","Emilia-Romagna"
+Firenze,Florence,"IT-FI",Toscana
+Foggia,Foggia,"IT-FG",Puglia
+"Forlì-Cesena","Forlì-Cesena","IT-FC","Emilia-Romagna"
+Frosinone,Frosinone,"IT-FR",Lazio
+Genova,Genoa,"IT-GE",Liguria
+Gorizia,Gorizia,"IT-GO","Friuli-Venezia Giulia"
+Grosseto,Grosseto,"IT-GR",Toscana
+Imperia,Imperia,"IT-IM",Liguria
+Isernia,Isernia,"IT-IS",Molise
+"L'Aquila","L'Aquila","IT-AQ",Abruzzo
+"La Spezia","La Spezia","IT-SP",Liguria
+Latina,Latina,"IT-LT",Lazio
+Lecce,Lecce,"IT-LE",Puglia
+Lecco,Lecco,"IT-LC",Lombardia
+Livorno,Livorno,"IT-LI",Toscana
+Lodi,Lodi,"IT-LO",Lombardia
+Lucca,Lucca,"IT-LU",Toscana
+Macerata,Macerata,"IT-MC",Marche
+Mantova,Mantua,"IT-MN",Lombardia
+"Massa-Carrara","Massa-Carrara","IT-MS",Toscana
+Matera,Matera,"IT-MT",Basilicata
+Messina,Messina,"IT-ME",Sicilia
+Milano,Milan,"IT-MI",Lombardia
+Modena,Modena,"IT-MO","Emilia-Romagna"
+"Monza e Brianza","Monza and Brianza","IT-MB",Lombardia
+Napoli,Naples,"IT-NA",Campania
+Novara,Novara,"IT-NO",Piemonte
+Nuoro,Nuoro,"IT-NU",Sardegna
+Oristano,Oristano,"IT-OR",Sardegna
+Padova,Padua,"IT-PD",Veneto
+Palermo,Palermo,"IT-PA",Sicilia
+Parma,Parma,"IT-PR","Emilia-Romagna"
+Pavia,Pavia,"IT-PV",Lombardia
+Perugia,Perugia,"IT-PG",Umbria
+"Pesaro e Urbino","Pesaro and Urbino","IT-PU",Marche
+Pescara,Pescara,"IT-PE",Abruzzo
+Piacenza,Piacenza,"IT-PC","Emilia-Romagna"
+Pisa,Pisa,"IT-PI",Toscana
+Pistoia,Pistoia,"IT-PT",Toscana
+Pordenone,Pordenone,"IT-PN","Friuli-Venezia Giulia"
+Potenza,Potenza,"IT-PZ",Basilicata
+Prato,Prato,"IT-PO",Toscana
+Ragusa,Ragusa,"IT-RG",Sicilia
+Ravenna,Ravenna,"IT-RA","Emilia-Romagna"
+"Reggio Calabria","Reggio Calabria","IT-RC",Calabria
+"Reggio Emilia","Reggio Emilia","IT-RE","Emilia-Romagna"
+Rieti,Rieti,"IT-RI",Lazio
+Rimini,Rimini,"IT-RN","Emilia-Romagna"
+Roma,Rome,"IT-RM",Lazio
+Rovigo,Rovigo,"IT-RO",Veneto
+Salerno,Salerno,"IT-SA",Campania
+Sassari,Sassari,"IT-SS",Sardegna
+Savona,Savona,"IT-SV",Liguria
+Siena,Siena,"IT-SI",Toscana
+Siracusa,Syracuse,"IT-SR",Sicilia
+Sondrio,Sondrio,"IT-SO",Lombardia
+"Sud Sardegna","South Sardinia","IT-SU",Sardegna
+Taranto,Taranto,"IT-TA",Puglia
+Teramo,Teramo,"IT-TE",Abruzzo
+Terni,Terni,"IT-TR",Umbria
+Torino,Turin,"IT-TO",Piemonte
+Trapani,Trapani,"IT-TP",Sicilia
+Trento,Trentino,"IT-TN","Trentino-Alto Adige"
+Treviso,Treviso,"IT-TV",Veneto
+Trieste,Trieste,"IT-TS","Friuli-Venezia Giulia"
+Udine,Udine,"IT-UD","Friuli-Venezia Giulia"
+Varese,Varese,"IT-VA",Lombardia
+Venezia,Venice,"IT-VE",Veneto
+"Verbano-Cusio-Ossola","Verbano-Cusio-Ossola","IT-VB",Piemonte
+Vercelli,Vercelli,"IT-VC",Piemonte
+Verona,Verona,"IT-VR",Veneto
+"Vibo Valentia","Vibo Valentia","IT-VV",Calabria
+Vicenza,Vicenza,"IT-VI",Veneto
+Viterbo,Viterbo,"IT-VT",Lazio
