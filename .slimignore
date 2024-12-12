@@ -1,2 +1,5 @@
 .git*
+.idea
+.venv
 appIcon.svg
+requirements.txt
