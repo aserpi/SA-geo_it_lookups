@@ -3,3 +3,4 @@
 .venv
 appIcon.svg
 requirements.txt
+SA-geo_it_lookups-*.tar.gz
