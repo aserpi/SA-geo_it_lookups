@@ -36,6 +36,7 @@ Firenze,Florence,"IT-FI",Toscana
 Foggia,Foggia,"IT-FG",Puglia
 "Forlì-Cesena","Forlì-Cesena","IT-FC","Emilia-Romagna"
 Frosinone,Frosinone,"IT-FR",Lazio
+"Gallura Nord-Est Sardegna","Gallura North-East Sardinia","IT-OT",Sardegna
 Genova,Genoa,"IT-GE",Liguria
 Gorizia,Gorizia,"IT-GO","Friuli-Venezia Giulia"
 Grosseto,Grosseto,"IT-GR",Toscana
@@ -53,6 +54,7 @@ Macerata,Macerata,"IT-MC",Marche
 Mantova,Mantua,"IT-MN",Lombardia
 "Massa-Carrara","Massa-Carrara","IT-MS",Toscana
 Matera,Matera,"IT-MT",Basilicata
+"Medio Campidano","Medio Campidano","IT-VS",Sardegna
 Messina,Messina,"IT-ME",Sicilia
 Milano,Milan,"IT-MI",Lombardia
 Modena,Modena,"IT-MO","Emilia-Romagna"
@@ -60,6 +62,7 @@ Modena,Modena,"IT-MO","Emilia-Romagna"
 Napoli,Naples,"IT-NA",Campania
 Novara,Novara,"IT-NO",Piemonte
 Nuoro,Nuoro,"IT-NU",Sardegna
+Ogliastra,Ogliastra,"IT-OG",Sardegna
 Oristano,Oristano,"IT-OR",Sardegna
 Padova,Padua,"IT-PD",Veneto
 Palermo,Palermo,"IT-PA",Sicilia
@@ -88,7 +91,7 @@ Savona,Savona,"IT-SV",Liguria
 Siena,Siena,"IT-SI",Toscana
 Siracusa,Syracuse,"IT-SR",Sicilia
 Sondrio,Sondrio,"IT-SO",Lombardia
-"Sud Sardegna","South Sardinia","IT-SU",Sardegna
+"Sulcis Iglesiente","Sulcis Iglesiente","IT-CI",Sardegna
 Taranto,Taranto,"IT-TA",Puglia
 Teramo,Teramo,"IT-TE",Abruzzo
 Terni,Terni,"IT-TR",Umbria
