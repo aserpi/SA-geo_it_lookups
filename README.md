@@ -80,7 +80,7 @@ in choropleth maps.
 ### Credits
 
 The maps are based on the generalized version of [Confini delle unità amministrative a fini statistici](https://www.istat.it/notizia/confini-delle-unita-amministrative-a-fini-statistici-al-1-gennaio-2018-2/)
-by [Istituto nazionale di statistica](https://www.istat.it/) and are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0)
+(2026) by [Istituto nazionale di statistica](https://www.istat.it/) and are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0)
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="">
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="">
 
