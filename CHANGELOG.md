@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.0 - 2026-03-13
+
+Update lookups and SVG files to 2026-01-01 borders.
+
 ## 2.1.0 - 2026-02-28
 
 Update lookups and SVG files to 2025-01-01 borders.
