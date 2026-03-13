@@ -10,7 +10,7 @@ English and to retrieve ISO 3166-2 codes.
 
 #### Maps
 
-The maps are available in both KMZ (geolocation lookups) and SVG formats.
+The maps are available in both KMZ (geospatial lookups) and SVG formats.
 They use Italian subdivision names, which are different from those used by
 `iplocation`.
 The conversion between languages is facilitated by the supporting lookups.
@@ -39,7 +39,7 @@ references the `name` of the region.
 The following are non-exhaustive examples of how to use the provided lookups
 in choropleth maps.
 
-#### Geolocation lookups
+#### Geospatial lookups
 
 ```
 ...
@@ -52,7 +52,8 @@ in choropleth maps.
 
 ```
 ...
-definition = search Country="Italy" Region!=""
+| iplocation ip
+| search Country="Italy" Region!=""
 | stats count by Region
 | lookup geo_attr_it_regions name_en as Region OUTPUT name as Region
 | geom geo_it_regions allFeatures=true featureIdField="Region"
